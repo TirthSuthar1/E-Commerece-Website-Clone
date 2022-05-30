@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  height: 12vh;
+  background-color: black;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+}
